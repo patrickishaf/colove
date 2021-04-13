@@ -1,0 +1,16 @@
+:root {
+    --custom-black: #000000;
+    --custom-black-bg: #19191b;
+    --custom-pink: #f3115b;
+    --custom-white: #ffffff;
+    --custom-yellow: #ffd200;
+    --custom-blue: #1e90ff;
+    --custom-blue-dark: #024fe9;
+    --custom-pink-transparent: #f3115b; /*Opacity: 15%*/
+    --custom-pink-light: #ff3e80;
+    --custom-pink-lighter: #f988ad;
+    --custom-grey: #c4c4c4;
+    --custom-grey-font: #9e9e9e;
+    --custom-grey-transparent: #fffced; /*Opacity: 18%*/
+    --custom-grey-font-dark: #404040;
+}
