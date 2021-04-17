@@ -14,3 +14,11 @@
     --custom-grey-transparent: #fffced; /*Opacity: 18%*/
     --custom-grey-font-dark: #404040;
 }
+
+body {
+    font-size: normal;
+    /*
+    font-family: Gilroy;
+    I need to add this font as a web font from fonts.google.com
+    */
+}
