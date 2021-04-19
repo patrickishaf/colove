@@ -15,6 +15,11 @@
     --custom-grey-font-dark: #404040;
 }
 
+@font-face {
+    font-family: Gilroy;
+    src: url('gilroy-font/Gilroy-Light.otf');
+}
+
 *, * * {
     box-sizing: border-box;
     margin: 0;
@@ -26,10 +31,7 @@
 
 body {
     font-size: normal;
-    /*
     font-family: Gilroy;
-    I need to add this font as a web font from fonts.google.com
-    */
 }
 
 .call-to-action {
