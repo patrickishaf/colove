@@ -28,12 +28,27 @@ body {
     */
 }
 
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
 #home-section {
     background-color: var(--custom-black);
     color: var(--custom-white);
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    display: flex;
+    direction: row;
+    justify-content: space-between;
+    padding: 5vw;
 }
 
 #page-header {
