@@ -28,6 +28,13 @@ body {
     */
 }
 
+.call-to-action {
+    border: none;
+    width: 129px;
+    height: 50px;
+    font-size: 1em;
+}
+
 .column {
     display: flex;
     flex-direction: column;
