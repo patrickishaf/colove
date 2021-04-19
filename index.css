@@ -30,4 +30,17 @@ body {
 
 #home-section {
     background-color: var(--custom-black);
+    color: var(--custom-white);
+}
+
+.blue-letter {
+    color: var(--custom-blue);
+}
+
+.pink-letter {
+    color: var(--custom-pink);
+}
+
+.yellow-letter {
+    color: var(--custom-yellow);
 }
