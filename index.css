@@ -33,12 +33,14 @@ body {
     flex-direction: column;
 }
 
-#home-section {
+#hero-section {
     background-color: var(--custom-black);
     color: var(--custom-white);
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 150vh;
+    padding-top: 50vh;
 }
 
 nav {
@@ -53,6 +55,12 @@ nav {
 
 #page-header {
     font-size: 10em;
+}
+
+#social-icons {
+    position: absolute;
+    left: 5vw;
+    top: 50vh;
 }
 
 span.blue-letter {
