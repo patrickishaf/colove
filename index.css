@@ -20,6 +20,10 @@
     margin: 0;
 }
 
+.bg-pink {
+    background-color: var(--custom-pink);
+}
+
 body {
     font-size: normal;
     /*
@@ -80,4 +84,8 @@ span.pink-letter {
 
 span.yellow-letter {
     color: var(--custom-yellow);
+}
+
+.text-white {
+    color: var(--custom-white)
 }
