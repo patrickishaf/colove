@@ -77,6 +77,10 @@ nav {
     background-color: var(--custom-black-bg);
 }
 
+#section-news {
+    background-color: var(--custom-yellow);
+}
+
 #section-work {
     background-color: var(--custom-blue);
 }
