@@ -36,14 +36,14 @@ body {
     align-items: center;
 }
 
-.blue-letter {
+span.blue-letter {
     color: var(--custom-blue);
 }
 
-.pink-letter {
+span.pink-letter {
     color: var(--custom-pink);
 }
 
-.yellow-letter {
+span.yellow-letter {
     color: var(--custom-yellow);
 }
