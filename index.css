@@ -18,6 +18,14 @@
 @font-face {
     font-family: Gilroy;
     src: url('gilroy-font/Gilroy-Light.otf');
+    letter-spacing: normal;
+}
+
+@font-face {
+    font-family: GilroyBold;
+    src: url('gilroy-font/Gilroy-ExtraBold.otf');
+    font-style: normal;
+    font-weight: bold;
 }
 
 *, * * {
@@ -61,8 +69,10 @@ nav {
     margin-right: 5vw;
 }
 
-#page-header {
-    font-size: 10em;
+.section-header {
+    font-size: 274px;
+    font-weight: 800;
+    letter-spacing: -0.1em;
 }
 
 #section-hero {
@@ -72,7 +82,7 @@ nav {
     flex-direction: column;
     align-items: center;
     height: 150vh;
-    padding-top: 50vh;
+    padding-top: 299px;
 }
 
 #section-branding-projects {
