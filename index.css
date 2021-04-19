@@ -36,6 +36,10 @@ body {
     align-items: center;
 }
 
+#page-header {
+    font-size: 10em;
+}
+
 span.blue-letter {
     color: var(--custom-blue);
 }
