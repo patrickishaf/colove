@@ -94,3 +94,7 @@ span.yellow-letter {
 .text-white {
     color: var(--custom-white)
 }
+
+#work-section {
+    background-color: var(--custom-blue);
+}
