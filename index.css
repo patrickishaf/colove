@@ -27,3 +27,7 @@ body {
     I need to add this font as a web font from fonts.google.com
     */
 }
+
+#home-section {
+    background-color: var(--custom-black);
+}
