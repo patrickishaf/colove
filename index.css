@@ -130,13 +130,14 @@ nav {
 #social-icons {
     position: absolute;
     left: 5vw;
-    top: 50vh;
+    top: 61vh;
     align-items: center;
     justify-content: space-between;
 }
 
 #social-icons img {
-    width: 17px;
+    width: 20px;
+    margin-top: 20px;
 }
 
 span.blue-letter {
