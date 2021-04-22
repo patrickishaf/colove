@@ -5,6 +5,8 @@
     --custom-white: #ffffff;
     --custom-yellow: #ffd200;
     --custom-blue: #1e90ff;
+    --custom-blue-light: #3898fc;
+    --custom-blue-lighter: #69b3fc;
     --custom-blue-dark: #024fe9;
     --custom-pink-transparent: #f3115b; /*Opacity: 15%*/
     --custom-pink-light: #ff3e80;
@@ -13,6 +15,12 @@
     --custom-grey-font: #9e9e9e;
     --custom-grey-transparent: #fffced; /*Opacity: 18%*/
     --custom-grey-font-dark: #404040;
+    --button-font-size: 18.68px;
+    --small-paragraph-size: 18px;
+    --big-paragraph-size: 24px;
+    --line-height-1: 29.78px;
+    --line-height-2: 24.04px;
+    --line-height-3: 20px;
 }
 
 @font-face {
@@ -29,6 +37,10 @@
 *, * * {
     box-sizing: border-box;
     margin: 0;
+}
+
+#social-icons #behance-icon {
+    width: 36px;
 }
 
 .bg-pink {
@@ -119,6 +131,12 @@ nav {
     position: absolute;
     left: 5vw;
     top: 50vh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#social-icons img {
+    width: 17px;
 }
 
 span.blue-letter {
