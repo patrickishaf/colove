@@ -127,6 +127,11 @@ nav {
     background-color: var(--custom-blue);
 }
 
+#slogan {
+    position: relative;
+    right: 10vw;
+}
+
 #social-icons {
     position: absolute;
     left: 5vw;
