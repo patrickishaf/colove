@@ -100,9 +100,10 @@ nav {
 }
 
 .section-header {
-    font-size: 274px;
+    font-size: 280px;
     font-weight: 800;
     letter-spacing: -0.1em;
+    line-height: 343px;
 }
 
 #section-hero {
