@@ -91,6 +91,14 @@ nav {
     flex-direction: row;
 }
 
+#section-branding-projects {
+    background-color: var(--custom-black-bg);
+}
+
+#section-clients {
+    background-color: var(--custom-black-bg);
+}
+
 .section-header {
     font-size: 274px;
     font-weight: 800;
@@ -105,14 +113,6 @@ nav {
     align-items: center;
     height: 150vh;
     padding-top: 299px;
-}
-
-#section-branding-projects {
-    background-color: var(--custom-black-bg);
-}
-
-#section-clients {
-    background-color: var(--custom-black-bg);
 }
 
 #section-hire {
@@ -130,6 +130,9 @@ nav {
 #slogan {
     position: relative;
     right: 10vw;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 20px;
 }
 
 #social-icons {
@@ -165,4 +168,7 @@ span.yellow-letter {
     position: relative;
     right: 20vw;
     top: 10vh;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.78px;
 }
