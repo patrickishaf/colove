@@ -40,8 +40,9 @@
     margin: 0;
 }
 
-#social-icons #behance-icon {
-    width: 36px;
+#all-work-button {
+    width: 25vw;
+    height: 102px;
 }
 
 .bg-pink {
@@ -216,6 +217,10 @@ nav {
     top: 61vh;
     align-items: center;
     justify-content: space-between;
+}
+
+#social-icons #behance-icon {
+    width: 36px;
 }
 
 #social-icons img {
