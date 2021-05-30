@@ -100,8 +100,10 @@ nav {
 #our-values {
     position: absolute;
     left: 75vw;
+    bottom: 409px;
     padding-right: 5vw;
     text-overflow: clip;
+    text-align: start;
 }
 
 #our-values-subtitle {
