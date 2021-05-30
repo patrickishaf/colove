@@ -204,6 +204,11 @@ span.yellow-letter {
     color: var(--custom-white)
 }
 
+#yellow-box {
+    color: var(--custom-yellow);
+    width: 50vw;
+}
+
 #welcome-to {
     position: relative;
     right: 20vw;
