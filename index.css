@@ -208,6 +208,9 @@ span.yellow-letter {
     width: 50vw;
     height: 300px;
     background-color: var(--custom-yellow);
+    position: absolute;
+    bottom: -65px;
+    right: 0;
 }
 
 #welcome-to {
