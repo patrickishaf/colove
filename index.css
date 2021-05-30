@@ -59,6 +59,11 @@ body {
     font-family: Gilroy;
 }
 
+#button-row {
+    align-self: flex-start;
+    padding-left: 6.63px;
+}
+
 .call-to-action {
     border: none;
     border-radius: 1px;
@@ -101,6 +106,11 @@ nav {
     margin-right: 5vw;
 }
 
+#next-image {
+    padding: 20px 30px;
+    background-color: var(--custom-blue-lighter);
+}
+
 #our-values {
     position: absolute;
     left: 75vw;
@@ -125,6 +135,11 @@ nav {
 
 .page-section {
     position: relative;
+}
+
+#prev-image {
+    padding: 20px 32px;
+    background-color: var(--custom-white);
 }
 
 .row {
