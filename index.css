@@ -83,6 +83,12 @@ body {
     font-size: 1em;
 }
 
+#case-studies-container {
+    width: 50vw;
+    height: 683px;
+    background-color: var(--custom-yellow);
+}
+
 #case-studies-title {
     color: var(--custom-black);
     font-size: 24px;
