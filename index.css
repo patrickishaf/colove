@@ -205,8 +205,12 @@ span.yellow-letter {
 }
 
 #yellow-box {
-    color: var(--custom-yellow);
     width: 50vw;
+    height: 300px;
+    color: var(--custom-yellow);
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
 }
 
 #welcome-to {
