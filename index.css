@@ -265,3 +265,8 @@ span.yellow-letter {
 #work-header {
     color: var(--custom-white);
 }
+
+.work-tile {
+    width: 25vw;
+    height: 25vw;
+}
