@@ -87,6 +87,9 @@ body {
     width: 50vw;
     height: 683px;
     background-color: var(--custom-yellow);
+    position: absolute;
+    right: 0;
+    bottom: 0;
 }
 
 #case-studies-title {
