@@ -279,6 +279,7 @@ span.yellow-letter {
     color: var(--custom-white);
     font-size: 33px;
     font-weight: 600;
+    margin-bottom: 15px;
 }
 
 .work-tile-subtitle {
