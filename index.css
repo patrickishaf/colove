@@ -66,6 +66,12 @@ body {
     flex-direction: column;
 }
 
+#dropdown-icon-section {
+    position: absolute;
+    bottom: 10vh;
+    text-align: center;
+}
+
 .icon-button {
     width: 129px;
     height: 50px;
@@ -152,6 +158,14 @@ nav {
 
 #section-work {
     background-color: var(--custom-blue);
+}
+
+#see-more-text {
+    padding-top: 26px;
+    text-align: center;
+    font-weight: 18px;
+    font-weight: 400;
+    width: 100vw;
 }
 
 #slogan {
