@@ -83,13 +83,19 @@ body {
     font-size: 1em;
 }
 
-#dropdown-icon-section {
-    margin-top: 185px;
+#case-studies-title {
+    color: var(--custom-black);
+    font-size: 24px;
+    font-weight: 400;
 }
 
 .column {
     display: flex;
     flex-direction: column;
+}
+
+#dropdown-icon-section {
+    margin-top: 185px;
 }
 
 #food-campaign-div {
@@ -150,6 +156,7 @@ nav {
 
 .page-section {
     position: relative;
+    width: 100vw;
 }
 
 #prev-image {
