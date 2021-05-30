@@ -91,6 +91,9 @@ body {
     right: 0;
     bottom: 0;
     z-index: 0;
+    padding-left: 25vw;
+    padding-top: 87px;
+    padding-right: 91px;
 }
 
 #case-studies-title {
