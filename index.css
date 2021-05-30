@@ -86,6 +86,15 @@ nav {
     margin-right: 5vw;
 }
 
+#our-values {
+    position: absolute;
+    right: 5vw;
+}
+
+.page-section {
+    position: relative;
+}
+
 .row {
     display: flex;
     flex-direction: row;
