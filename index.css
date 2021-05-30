@@ -67,6 +67,10 @@ body {
     font-size: 1em;
 }
 
+#dropdown-icon-section {
+    margin-top: 185px;
+}
+
 .column {
     display: flex;
     flex-direction: column;
