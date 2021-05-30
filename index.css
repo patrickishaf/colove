@@ -272,6 +272,7 @@ span.yellow-letter {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    padding: 48px 32px;
 }
 
 .work-tile-title {
