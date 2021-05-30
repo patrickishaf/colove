@@ -171,6 +171,9 @@ nav {
 
 #section-work {
     background-color: var(--custom-blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #see-more-text {
