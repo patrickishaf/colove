@@ -81,6 +81,10 @@ body {
     flex-direction: column;
 }
 
+#food-campaign-div {
+    background: url("images/food-campaign-img.svg");
+}
+
 #hero-header {
     letter-spacing: -0.1em;
 }
@@ -219,6 +223,10 @@ nav {
     margin-top: 20px;
 }
 
+#social-meetup-div {
+    background: url("images/social-meetup-img.svg");
+}
+
 span.blue-letter {
     color: var(--custom-blue);
 }
@@ -233,6 +241,10 @@ span.yellow-letter {
 
 .text-white {
     color: var(--custom-white)
+}
+
+#virtual-sports-div {
+    background: url("images/virtual-sports-img.svg");
 }
 
 #yellow-box {
