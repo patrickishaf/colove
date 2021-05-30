@@ -300,6 +300,7 @@ span.yellow-letter {
 
 #work-header {
     color: var(--custom-white);
+    z-index: 2;
 }
 
 .work-tile {
