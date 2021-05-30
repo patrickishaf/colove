@@ -290,15 +290,20 @@ span.yellow-letter {
     padding: 48px 32px;
 }
 
-.work-tile-title {
-    color: var(--custom-white);
-    font-size: 33px;
-    font-weight: 600;
-    margin-bottom: 15px;
+#work-tile-row {
+    align-items: flex-end;
+    margin-top: 1px;
 }
 
 .work-tile-subtitle {
     color: var(--custom-white);
     font-size: 16px;
     font-weight: 400;
+}
+
+.work-tile-title {
+    color: var(--custom-white);
+    font-size: 33px;
+    font-weight: 600;
+    margin-bottom: 15px;
 }
