@@ -48,6 +48,12 @@
     background-color: var(--custom-pink);
 }
 
+#blue-bar {
+    width: 50vw;
+    height: 65px;
+    background-color: var(--custom-blue-lighter);
+}
+
 body {
     font-size: normal;
     font-family: Gilroy;
@@ -64,12 +70,6 @@ body {
 .column {
     display: flex;
     flex-direction: column;
-}
-
-#dropdown-icon-section {
-    position: absolute;
-    bottom: 10vh;
-    text-align: center;
 }
 
 .icon-button {
@@ -123,6 +123,10 @@ nav {
     flex-direction: row;
 }
 
+#row-boxes {
+    align-items: flex-end;
+}
+
 #section-branding-projects {
     background-color: var(--custom-black-bg);
 }
@@ -145,6 +149,7 @@ nav {
     flex-direction: column;
     align-items: center;
     padding-top: 299px;
+    text-align: center;
 }
 
 #section-hire {
