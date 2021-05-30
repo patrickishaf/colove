@@ -301,6 +301,8 @@ span.yellow-letter {
 #work-header {
     color: var(--custom-white);
     z-index: 2;
+    position: relative;
+    right: 9vw;
 }
 
 .work-tile {
