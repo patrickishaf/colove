@@ -207,10 +207,7 @@ span.yellow-letter {
 #yellow-box {
     width: 50vw;
     height: 300px;
-    color: var(--custom-yellow);
-    border-style: solid;
-    border-color: red;
-    border-width: 1px;
+    background-color: var(--custom-yellow);
 }
 
 #welcome-to {
