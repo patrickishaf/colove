@@ -70,6 +70,10 @@ body {
     font-family: Gilroy;
 }
 
+#branding-column {
+    align-items: center;
+}
+
 #button-row {
     align-self: flex-start;
     padding-left: 6.63px;
@@ -184,6 +188,11 @@ nav {
 #prev-image {
     padding: 20px 32px;
     background-color: var(--custom-white);
+}
+
+#project-images-box {
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
 
 .row {
