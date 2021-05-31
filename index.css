@@ -85,7 +85,7 @@ body {
 
 #case-studies-container {
     width: 50vw;
-    height: 683px;
+    height: 660px;
     background-color: var(--custom-yellow);
     position: absolute;
     right: 0;
@@ -234,6 +234,7 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 100px;
 }
 
 #section-work * {
