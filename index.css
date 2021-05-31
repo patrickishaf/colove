@@ -315,7 +315,7 @@ span.yellow-letter {
     color: var(--custom-white);
     z-index: 2;
     position: relative;
-    right: 9vw;
+    right: 8vw;
 }
 
 .work-tile {
