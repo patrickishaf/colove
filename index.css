@@ -96,10 +96,18 @@ body {
     padding-right: 91px;
 }
 
+#case-studies-subtitle {
+    color: var(--custom-black);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+}
+
 #case-studies-title {
     color: var(--custom-black);
     font-size: 24px;
     font-weight: 400;
+    line-height: 27.22px;
 }
 
 .column {
