@@ -72,6 +72,26 @@ body {
 
 #branding-column {
     align-items: center;
+    border-style: solid;
+    border-color: red;
+}
+
+#branding-subtitle {
+    color: var(--custom-white);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    padding-left: 10vw;
+    padding-right: 7vw;
+}
+
+#branding-title {
+    color: var(--custom-white);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 22.02px;
+    margin-bottom: 17px;
 }
 
 #button-row {
