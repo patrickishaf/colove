@@ -198,6 +198,7 @@ nav {
 
 #section-branding-projects {
     background-color: var(--custom-black-bg);
+    padding: 256px 150px;
 }
 
 #section-clients {
