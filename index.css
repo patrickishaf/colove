@@ -158,8 +158,12 @@ body {
 
 #grey-oval {
     position: absolute;
-    right: 75vw;
-    bottom: -200px;
+    left: 0;
+    bottom: -250px;
+    background: url("images/grey-oval.svg");
+    background-repeat: no-repeat;
+    width: 850px;
+    height: 850px;
 }
 
 #hero-header {
@@ -263,6 +267,10 @@ nav {
 #section-branding-projects {
     background-color: var(--custom-black);
     padding: 256px 150px;
+}
+
+#section-branding-projects img{
+    z-index: 0;
 }
 
 #section-clients {
