@@ -73,6 +73,9 @@ body {
 #branding-button-row {
     align-self: flex-end;
     justify-self: flex-end;
+    position: relative;
+    bottom: 50px;
+    margin-right: 50px;
 }
 
 #branding-column {
