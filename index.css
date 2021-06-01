@@ -70,10 +70,14 @@ body {
     font-family: Gilroy;
 }
 
+#branding-button-row {
+    align-self: flex-end;
+    justify-self: flex-end;
+}
+
 #branding-column {
     align-items: center;
-    border-style: solid;
-    border-color: red;
+    justify-content: space-between;
 }
 
 #branding-projects {
@@ -181,11 +185,19 @@ nav {
 #next-header {
     color: var(--custom-white);
     opacity: 0.5;
+    margin-top: 0;
+    position: relative;
+    bottom: 150px;
 }
 
 #next-image {
     padding: 20px 30px;
     background-color: var(--custom-blue-lighter);
+}
+
+#next-brand-button {
+    padding: 20px 32px;
+    background-color: var(--custom-blue-light);
 }
 
 #our-values {
@@ -213,6 +225,10 @@ nav {
 .page-section {
     position: relative;
     width: 100vw;
+}
+
+#prev-brand-button {
+    padding: 20px 32px;
 }
 
 #prev-image {
