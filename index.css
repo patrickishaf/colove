@@ -156,6 +156,12 @@ body {
     background: url("images/food-campaign-img.svg");
 }
 
+#grey-oval {
+    position: absolute;
+    right: 75vw;
+    bottom: -200px;
+}
+
 #hero-header {
     letter-spacing: -0.1em;
 }
