@@ -178,6 +178,11 @@ nav {
     margin-right: 5vw;
 }
 
+#next-header {
+    color: var(--custom-white);
+    opacity: 0.5;
+}
+
 #next-image {
     padding: 20px 30px;
     background-color: var(--custom-blue-lighter);
@@ -231,7 +236,7 @@ nav {
 }
 
 #section-branding-projects {
-    background-color: var(--custom-black-bg);
+    background-color: var(--custom-black);
     padding: 256px 150px;
 }
 
