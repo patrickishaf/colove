@@ -164,6 +164,8 @@ body {
     background-repeat: no-repeat;
     width: 850px;
     height: 850px;
+    z-index: 0;
+    filter: opacity(1);
 }
 
 #hero-header {
@@ -193,6 +195,13 @@ nav {
 
 #nav-button-rack {
     margin-right: 5vw;
+}
+
+#news-header {
+    width: fit-content;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
 }
 
 #next-header {
@@ -300,6 +309,7 @@ nav {
 
 #section-news {
     background-color: var(--custom-yellow);
+    padding-top: 67px;
 }
 
 #section-work {
