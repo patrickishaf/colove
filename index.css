@@ -209,6 +209,11 @@ nav {
     margin-right: 5vw;
 }
 
+.news-card {
+    height: 400px;
+    background-color: var(--custom-white);
+}
+
 #news-header {
     width: fit-content;
     margin-left: 18vw;
