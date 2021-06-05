@@ -59,6 +59,18 @@
     background-color: var(--custom-pink);
 }
 
+#black-box {
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    margin-left: 5vw;
+    height: 450px;
+    background-color: var(--custom-black-bg);
+    position: relative;
+    bottom: -149px;
+    z-index: 1;
+}
+
 #blue-bar {
     width: 50vw;
     height: 65px;
