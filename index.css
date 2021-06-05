@@ -69,6 +69,7 @@
     position: relative;
     bottom: -149px;
     z-index: 1;
+    justify-content: space-evenly;
 }
 
 #blue-bar {
