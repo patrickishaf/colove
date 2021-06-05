@@ -218,6 +218,19 @@ nav {
     top: -99px;
 }
 
+.news-card-desc {
+    margin: 35px 27px 13px 27px;
+    font-size: 16px;
+    line-height: 19.33px;
+    font-weight: 300;
+}
+
+.news-card-link {
+    margin-left: 27px;
+    color: var(--custom-black);
+    margin-bottom: 8px;
+}
+
 #news-header {
     width: fit-content;
     margin-left: 18vw;
