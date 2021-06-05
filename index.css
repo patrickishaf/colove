@@ -214,6 +214,8 @@ nav {
     width: 337px;
     height: 400px;
     background-color: var(--custom-white);
+    position: relative;
+    top: -99px;
 }
 
 #news-header {
