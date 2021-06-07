@@ -231,6 +231,11 @@ nav {
     margin-bottom: 8px;
 }
 
+.news-card-title {
+    padding-left: 27px;
+
+}
+
 #news-header {
     width: fit-content;
     margin-left: 18vw;
@@ -303,6 +308,11 @@ nav {
 #row-boxes {
     margin-top: 94px;
     align-items: flex-end;
+}
+
+.row-expanded {
+    justify-content: space-between;
+    align-items: center;
 }
 
 #section-branding-projects {
