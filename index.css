@@ -160,10 +160,23 @@ body {
     padding-top: 377px;
 }
 
-#client-pitch {
+#clients-pitch {
     margin-bottom: 64px;
     margin-left: 49px;
     margin-right: 157px;
+}
+
+#clients-pitch div {
+    justify-content: flex-start;
+}
+
+#clients-pitch ul {
+    padding: 0;
+    padding-left: 4px;
+}
+
+#clients-pitch p {
+    margin-left: 122px;
 }
 
 .column {
