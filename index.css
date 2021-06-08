@@ -153,6 +153,19 @@ body {
     line-height: 27.22px;
 }
 
+#clients-header {
+    z-index: 10;
+    color: var(--custom-white);
+    margin-left: 16vw;
+    padding-top: 377px;
+}
+
+#client-pitch {
+    margin-bottom: 64px;
+    margin-left: 49px;
+    margin-right: 157px;
+}
+
 .column {
     display: flex;
     flex-direction: column;
@@ -176,12 +189,6 @@ body {
     height: 850px;
     z-index: 0;
     filter: opacity(1);
-}
-
-#header-clients {
-    color: var(--custom-white);
-    margin-left: 16vw;
-    padding-top: 377px;
 }
 
 #header-hero {
@@ -318,6 +325,12 @@ nav {
     position: absolute;
     top: 0;
     right: 0;
+    color: var(--custom-white);
+    justify-content: flex-end;
+}
+
+#pink-box * {
+    color: var(--custom-white);
 }
 
 #prev-brand-button {
@@ -450,6 +463,10 @@ span.yellow-letter {
 
 .text-white {
     color: var(--custom-white)
+}
+
+ul {
+    list-style-type: none;
 }
 
 #virtual-sports-div {
