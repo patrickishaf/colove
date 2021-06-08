@@ -181,6 +181,7 @@ body {
 #header-clients {
     color: var(--custom-white);
     margin-left: 16vw;
+    padding-top: 377px;
 }
 
 #header-hero {
@@ -359,7 +360,6 @@ nav {
 
 #section-clients {
     background-color: var(--custom-black-bg);
-    padding-top: 229px;
 }
 
 .section-header {
