@@ -239,6 +239,9 @@ nav {
 }
 
 .news-card-title {
+    font-size: 16.11px;
+    font-weight: 600;
+    line-height: 19.33px;
 }
 
 #news-header {
