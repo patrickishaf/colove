@@ -225,15 +225,20 @@ nav {
     font-weight: 300;
 }
 
+.news-card-header-box {
+    position: absolute;
+    bottom: 16px;
+    padding-left: 27px;
+    padding-right: 16px;
+    width: 100%;
+}
+
 .news-card-link {
-    margin-left: 27px;
     color: var(--custom-black);
     margin-bottom: 8px;
 }
 
 .news-card-title {
-    padding-left: 27px;
-
 }
 
 #news-header {
