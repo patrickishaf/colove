@@ -178,7 +178,12 @@ body {
     filter: opacity(1);
 }
 
-#hero-header {
+#header-clients {
+    color: var(--custom-white);
+    margin-left: 16vw;
+}
+
+#header-hero {
     letter-spacing: -0.1em;
 }
 
@@ -345,6 +350,7 @@ nav {
 
 #section-clients {
     background-color: var(--custom-black-bg);
+    padding-top: 229px;
 }
 
 .section-header {
