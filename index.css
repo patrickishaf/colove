@@ -310,6 +310,15 @@ nav {
     width: 100vw;
 }
 
+#pink-box {
+    height: 970px;
+    width: 50vw;
+    background-color: var(--custom-pink);
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 #prev-brand-button {
     padding: 20px 32px;
 }
