@@ -193,6 +193,20 @@ img {
     margin: 0;
 }
 
+#inspirations {
+    position: absolute;
+    left: 78vw;
+    top: 307px;
+    width: 217.51px;
+}
+
+#inspirations-title {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 26.85px;
+    margin-bottom: 20px;
+}
+
 nav {
     position: fixed;
     width: 100%;
