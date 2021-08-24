@@ -199,6 +199,9 @@ body {
     background: url("images/food-campaign-img.svg");
 }
 
+#form-button {
+}
+
 #form-container input {
     border: none;
     border-bottom-style: solid;
@@ -208,6 +211,7 @@ body {
     height: 41px;
     font-size: 18px;
     line-height: 26.83px;
+    width: 30vw;
 }
 
 #form-container p {
@@ -216,6 +220,7 @@ body {
     font-size: 32px;
     font-weight: 400;
     line-height: 26.83px;
+    margin-top: 30;
 }
 
 #form-container {
