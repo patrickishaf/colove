@@ -205,10 +205,14 @@ body {
     padding-top: 145px;
     padding-bottom: 44px;
     padding-left: 3vw;
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-row-gap: 62px;
+    grid-column-gap: 4vw;
 }
 
-.contact-card-row {
-    margin-bottom: 62.7px;
+.contact-item {
+    margin-right: 8.3vw;
 }
 
 .contact-item-subtitle {
