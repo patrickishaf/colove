@@ -199,6 +199,31 @@ body {
     flex-direction: column;
 }
 
+#contact-card {
+    background-color: var(--custom-white);
+    padding-right: 8.3vw;
+    padding-top: 145px;
+    padding-bottom: 44px;
+    padding-left: 3vw;
+}
+
+.contact-card-row {
+    margin-bottom: 62.7px;
+}
+
+.contact-item-subtitle {
+    color: var(--custom-grey-font);
+    font-size: 18px;
+    line-height: 26.83px;
+    margin-top: 12px;
+}
+
+.contact-item-title {
+    color: var(--custom-pink);
+    font-size: 24px;
+    line-height: 26.83px;
+}
+
 #dropdown-icon-section {
     margin-top: 185px;
 }
@@ -253,6 +278,12 @@ body {
 
 #header-hero {
     letter-spacing: -0.1em;
+}
+
+#hire-header {
+    color: var(--custom-white);
+    margin-left: 14.6vw;
+    margin-bottom: 20px;
 }
 
 .icon-button {
@@ -598,6 +629,7 @@ nav {
 
 #section-hire {
     background-color: var(--custom-black-bg);
+    border: solid 1px red;
 }
 
 #section-news {
@@ -651,6 +683,10 @@ nav {
 
 #social-meetup-div {
     background: url("images/social-meetup-img.svg");
+}
+
+.space-between {
+    justify-content: space-between;
 }
 
 span.blue-letter {
