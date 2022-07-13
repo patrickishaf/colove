@@ -199,6 +199,17 @@ body {
     flex-direction: column;
 }
 
+#contact-arrow-button {
+    align-self: flex-end;
+    justify-self: stretch;
+    width: 100%;
+    border: none;
+    background-color: var(--custom-pink);
+    padding-left: 30%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
 #contact-card {
     background-color: var(--custom-white);
     padding-right: 8.3vw;
@@ -226,6 +237,10 @@ body {
     color: var(--custom-pink);
     font-size: 24px;
     line-height: 26.83px;
+}
+
+#contact-row {
+    width: 100vw;
 }
 
 #dropdown-icon-section {
@@ -288,6 +303,18 @@ body {
     color: var(--custom-white);
     margin-left: 14.6vw;
     margin-bottom: 20px;
+}
+
+#hire-button-up {
+    background-color: var(--custom-white);
+    padding-left: 24px;
+    padding-top: 410px;
+    padding-bottom: 23.65px;
+}
+
+#hire-button-up button {
+    background-color: transparent;
+    border: none;
 }
 
 .icon-button {
@@ -633,7 +660,6 @@ nav {
 
 #section-hire {
     background-color: var(--custom-black-bg);
-    border: solid 1px red;
 }
 
 #section-news {
