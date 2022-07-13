@@ -4,6 +4,7 @@
         <title>Colove</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="index.css">
+        <script defer src="script.js"></script>
     </head>
     <body>
         <section id="section-hero" class="page-section">
@@ -212,11 +213,15 @@
                 </ul>
             </div>
             <div id="form-container">
-                <p>Stay in touch</p>
-                <form action="" method="POST">
-                    <input type="email" name="email" placeholder="Enter email for our newsletter">
-                    <input id="form-button" type="submit">
-                </form>
+                <div id="stay-in-touch">
+                    <p id="stay-in-touch-title">Stay in touch</p>
+                    <form action="" method="POST" id="newsletter-form">
+                        <input id="stay-in-touch-email-input" type="email" name="email" placeholder="Enter email for our newsletter">
+                        <button type="submit" id="stay-in-touch-submit-button" value="">
+                            <img id="stay-in-touch-submit-button-img" src="icons/arrow-right.svg" alt="submit email for newsletter">
+                        </button>
+                    </form>
+                </div>
             </div>
             <div id="purple-circle">
                 <p>contact-page</p>
@@ -246,7 +251,7 @@
             </div>
         </section>
         <section id="section-hire" class="page-section">
-            <h1>hire</h1>
+            <h1 class="section-header">hire</h1>
             <div class="row">
                 <div id="hiring-information">
                     <div class="row">
