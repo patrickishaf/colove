@@ -228,7 +228,6 @@ body {
 #form-container {
     justify-self: flex-end;
     align-self: flex-end;
-    border: solid 1px green;
 }
 
 #grey-oval {
@@ -416,6 +415,16 @@ nav {
 #project-images-box {
     display: grid;
     grid-template-columns: 50% 50%;
+}
+
+#purple-circle {
+    width: 55vw;
+    height: 55vw;
+    border-radius: 50%;
+    background-color: var(--custom-pink);
+    opacity: 0.15;
+    margin: auto;
+    margin-top: 250px;
 }
 
 .relative-pos {
